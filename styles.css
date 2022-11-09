@@ -5,7 +5,10 @@ html, body{
     overflow: hidden;
 }
 
+#main{
+    text-align: center;
+}
+
 #vid{
     height: 100vh;
-    text-align: center;
 }
