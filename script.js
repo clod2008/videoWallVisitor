@@ -3,9 +3,11 @@ const vid = document.getElementById('vid')
 
 // el array de los videos
 const vids = [
-    './assets/video/hero_16_9_suc01_car01_video02.mp4',
-    './assets/video/hero_16_9_suc01_car01_video03.mp4',
-    './assets/video/hero_16_9_suc01_car01_video01.mp4',
+    './assets/video/20200107_01_02.mp4',
+    './assets/video/VideoBEV.mp4',
+    './assets/video/VideoFCEV.mp4',
+    './assets/video/VideoPHEV.mp4',
+    './assets/video/20190607_01_01.mp4',
 
 ]
 // la longitud del array de los videos
