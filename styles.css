@@ -1,0 +1,11 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    overflow: hidden;
+}
+
+#vid{
+    height: 100vh;
+    text-align: center;
+}
